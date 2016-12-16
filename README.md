@@ -1,2 +1,2 @@
 # EventGhost-GlobalMonitor
-Monitor the g.globals class for attribute changes
+Monitor the eg.globals class for attribute changes
